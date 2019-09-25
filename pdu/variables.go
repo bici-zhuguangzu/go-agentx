@@ -5,7 +5,7 @@
 package pdu
 
 import (
-	"github.com/posteo/go-agentx/value"
+	"github.com/bici-zhuguangzu/go-agentx/value"
 	"gopkg.in/errgo.v1"
 )
 
