@@ -7,9 +7,9 @@ package agentx_test
 import (
 	"testing"
 
-	. "github.com/posteo/go-agentx"
-	"github.com/posteo/go-agentx/pdu"
-	. "github.com/posteo/go-agentx/test"
+	. "github.com/bici-zhuguangzu/go-agentx"
+	"github.com/bici-zhuguangzu/go-agentx/pdu"
+	. "github.com/bici-zhuguangzu/go-agentx/test"
 )
 
 var listHandler = &ListHandler{}

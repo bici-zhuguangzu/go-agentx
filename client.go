@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/posteo/go-agentx/pdu"
-	"github.com/posteo/go-agentx/value"
+	"github.com/bici-zhuguangzu/go-agentx/pdu"
+	"github.com/bici-zhuguangzu/go-agentx/value"
 	"gopkg.in/errgo.v1"
 )
 
